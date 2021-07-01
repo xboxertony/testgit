@@ -10,7 +10,7 @@ def helloWorld():
 
 @app.route("/api")
 def helloWorld1():
-  return "Hello1"
+  return "Hello"
 
 
 if __name__ == "__main__":
